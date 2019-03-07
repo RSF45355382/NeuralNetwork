@@ -11,7 +11,7 @@ NeuronNum_list = [num_feature,25,26,10]
 trainingSet_Size = 3000
 validitySet_Size = 500
 testSet_Size = 1500
-NumPic_path = r'F:\练习\DeepLearning_Project\AutoRelation_GSM\NeuralNetwork_forNumPicRecongTraining\NumPicData.mat'
+NumPic_path = r'.\NumPicData.mat'
 
 class NumPicData(object):
     # 初始化数据集对象
